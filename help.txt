@@ -1,0 +1,11 @@
+ghp_thyWST7NjysI4aXRwRSXtHM9Jglyay4LLcYZ
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/johnnytroconis/siscon.git
+
+git push -u origin master
